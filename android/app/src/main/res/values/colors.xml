@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Swigaato Brand Colors -->
+    <color name="colorPrimary">#12663E</color>
+    <color name="colorPrimaryDark">#0B4A2C</color>
+    <color name="colorAccent">#F2B230</color>
+    <color name="backgroundColor">#FFFBF2</color>
+</resources>

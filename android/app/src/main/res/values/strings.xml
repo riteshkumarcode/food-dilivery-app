@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Swigaato</string>
+    <string name="title_activity_main">Swigaato</string>
+    <string name="package_name">com.swigaato.customer</string>
+    <string name="custom_url_scheme">com.swigaato.customer</string>
+</resources>

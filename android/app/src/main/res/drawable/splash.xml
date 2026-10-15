@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Swigaato Pot / Cloche Emblem -->
+    <path
+        android:fillColor="#F2B230"
+        android:pathData="M8,30h48a24,24 0 0,1 -48,0z" />
+    <path
+        android:strokeColor="#12663E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M24,22c0,-4 4,-4 4,-8M34,22c0,-4 4,-4 4,-8" />
+    <path
+        android:strokeColor="#12663E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M20,56h24" />
+</vector>

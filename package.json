@@ -1,0 +1,26 @@
+{
+  "name": "swigaato-mobile",
+  "version": "1.0.0",
+  "description": "Swigaato Food Delivery - Exclusive to Gonda, Uttar Pradesh",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "cap:sync": "cap sync android",
+    "cap:open": "cap open android",
+    "build:android": "cd android && gradlew.bat assembleRelease",
+    "build:aab": "cd android && gradlew.bat bundleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.1",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/geolocation": "^6.0.1",
+    "@capacitor/splash-screen": "^6.0.2",
+    "@capacitor/status-bar": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "author": "Swigaato Technologies Gonda",
+  "license": "UNLICENSED"
+}
